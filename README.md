@@ -1,2 +1,2 @@
 # data
-Learning interactive mapping tools using public data such as from the FBI and CDC
+Learning interactive mapping & data visualization tools like leaflet using public data such as from the FBI and CDC
